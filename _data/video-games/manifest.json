@@ -23,6 +23,72 @@
         "id": "https://oliviadeisinger.github.io/video-games-mv/video-games/canvas-1/canvas",
         "type": "Canvas",
         "duration": 277.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-40.json",
+            "label": {
+              "none": ["0:40"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-56.json",
+            "label": {
+              "none": ["0:56"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-1-05.json",
+            "label": {
+              "none": ["1:05"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-35.json",
+            "label": {
+              "none": ["0:35"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-03.json",
+            "label": {
+              "none": ["0:03"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-50.json",
+            "label": {
+              "none": ["0:50"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-28.json",
+            "label": {
+              "none": ["0:28"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://oliviadeisinger.github.io/video-games-mv/annotations/video-games-canvas-1-0-00.json",
+            "label": {
+              "none": ["0:00"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://oliviadeisinger.github.io/video-games-mv/video-games/canvas-1/paintings",
