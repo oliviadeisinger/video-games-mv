@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Video Games
 manifest_name: video-games
 permalink: video-games
